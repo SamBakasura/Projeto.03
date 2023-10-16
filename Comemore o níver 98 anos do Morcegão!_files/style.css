@@ -1,0 +1,116 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+        background-image: url('Batman.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+.logo{
+        position: absolute;
+        right: 20px;
+        top: 10px;
+    }
+.logo img{
+    height: 300px;
+}
+h1{
+        color:white;
+        text-align: center;
+    }
+p{
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-right: 150px;
+        margin-left: 80px;
+        color: white;
+    }
+.trailer{
+        position:absolute;
+        right: 120px;
+        top: 300px;
+    } 
+.trailer img{
+        height: 20vh;
+        border: 5px solid red;
+}
+.trailer02{
+        position:absolute;
+        right: 120px;
+        top: 505px;
+}
+.trailer02 img{
+        height: 22vh;
+        border: 5px solid red;
+}
+.trailer03{
+    position:absolute;
+    right: 120px;
+    bottom: 10px;
+}
+.trailer03 img{
+    height: 20vh;
+    border: 5px solid red;
+}
+.home{
+    position:absolute;
+    right: 55px;
+    bottom: 215px;
+}
+.home img{
+    height: 5vh;
+}
+.whatsapp{
+    position:absolute;
+    right: 60px;
+    bottom: 145px;
+}
+.whatsapp img{
+    height: 5vh;
+}
+.instagram{
+    position:absolute;
+    right: 60px;
+    bottom: 75px;
+}
+.instagram img{
+    height: 5vh;
+}
+.twitter{
+    position:absolute;
+    right: 55px;
+    bottom: 10px;
+}
+.twitter img{
+    height: 5vh;
+}
+.text-1{
+    position: absolute;
+    font-size: 25px;
+    left: 20px;
+    top: 470px;
+    color: rgb(207, 206, 206);;  text-shadow: red 0.1em 0.1em 0.5em;
+}
+.text-2{
+    position: absolute;
+    font-size: 25px;
+    left: 20px;
+    top: 510px;
+    color: rgb(207, 206, 206);  text-shadow: rgb(255, 0, 0) 0.1em 0.1em 0.5em;
+}
+.text-3{
+    position: absolute;
+    font-size: 25px;
+    left: 20px;
+    top: 550px;
+    color: rgb(207, 206, 206);  text-shadow: rgb(255, 0, 0) 0.1em 0.1em 0.5em;
+}
+.text-4{
+    position: absolute;
+    font-size: 25px;
+    left: 20px;
+    top: 590px;
+    color: rgb(207, 206, 206);  text-shadow: rgb(255, 0, 0) 0.1em 0.1em 0.5em;
+}
